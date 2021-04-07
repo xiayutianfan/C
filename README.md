@@ -1,2 +1,2 @@
-# C语言
-自用
+# C
+help oneself
